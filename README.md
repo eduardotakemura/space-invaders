@@ -2,6 +2,9 @@
 
 This project is a recreation of the classic arcade game **Space Invaders** using Python's Turtle graphics library. The game is broken down into several components to handle different aspects of the game such as alien movement, player controls, and collision detection.
 
+## Demo
+You can play the game [here](https://replit.com/@eduardotakemura/space-invaders).
+
 ## Game Components
 
 ### 1. **Spaceship**
